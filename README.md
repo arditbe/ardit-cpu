@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ardit-cpu
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning advanced systems
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach Me @ardit.b5
+- 👋 Hi, I’m Ardit CEO and Founder of Tubify
+- 👀 Programmer
+- 👩‍💻 Programmer at Tubify
+- 💞️ No Girls Until Succes
+- 📫 Dm Me to Instagram @ardit.b5
 
 <!---
 ardit-cpu/ardit-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
